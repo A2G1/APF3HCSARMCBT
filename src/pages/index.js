@@ -21,6 +21,10 @@ export default function Home() {
             <h3>About Andy Greer</h3>
             <p>Click here to navigate to Andy Greer's page</p>
           </a>
+          <a href='/andrewGusty' className='card'>
+            <h3>About Andrew Gusty</h3>
+            <p>Click here to navigate to Andrew Gusty's page</p>
+          </a>
           <a
             href='https://github.com/wangalec/website-template'
             className='card'>
