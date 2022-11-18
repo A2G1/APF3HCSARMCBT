@@ -10,16 +10,13 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://pbs.twimg.com/profile_images/415961110635110400/xPO9YqTC.jpeg'
-            alt='ron burgundy'
+            src=''
+            alt='George Frommell'
           />
 
           <p className='description'>
-            I dont know if you know this, but... I am kind of a big deal. I have
-            many leather bound books and my apartment smells of rich mahogany. I
-            am also a five-time local Emmy award-winning anchor for the KVWN Channel
-            4 News in San Diego. When im not reading the news, you will find me
-            playing the jazz flute around the city at different establishments.
+            Hey guys! I'm a freshman computer science student at CU Boulder. I have some experience with both 
+            c++ and Python, and I'm excited to pursue a career in cybersecurity.
           </p>
 
           <a className='button' href='/'>
