@@ -25,7 +25,7 @@ export default function Home() {
             <h3>About Andrew Gusty</h3>
             <p>Click here to navigate to Andrew Gusty's page</p>
           </a>
-          <a href='ronburgundy.js' className='card'>
+          <a href='/georgeFrommell' className='card'>
             <h3>About George Frommell</h3>
             <p>Click here to navigate to George Frommell's page</p>
           </a>
